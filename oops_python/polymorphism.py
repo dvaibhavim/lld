@@ -1,3 +1,4 @@
+# one class bird has many forms
 class Bird:
    
     def intro(self):
